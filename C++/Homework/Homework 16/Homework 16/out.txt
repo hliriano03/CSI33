@@ -1,0 +1,10 @@
+Min: -94
+Max: 202
+Total Average: 18.4375
+Positive Number Average: 65.375
+Negative Number Average: -45.6
+Zero Numbers Count: 3
+Positive Numbers Numbers Count: 8
+Negative Numbers Count: 5
+
+Sorted Array: -94, -85, -28, -19, -2, 0, 0, 0, 2, 4, 32, 61, 69, 76, 77, 202

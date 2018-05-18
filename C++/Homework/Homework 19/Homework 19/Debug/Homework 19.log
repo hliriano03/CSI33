@@ -1,0 +1,7 @@
+﻿  string_using.cpp
+  mystring_draft.cpp
+c:\users\hector\dropbox\personal\documents\college\csi33\c++\homework\homework 19\homework 19\mystring_draft.cpp(195): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\hector\dropbox\personal\documents\college\csi33\c++\homework\homework 19\homework 19\mystring_draft.cpp(94): warning C4715: 'mystring::find': not all control paths return a value
+  Homework 19.vcxproj -> C:\Users\Hector\Dropbox\Personal\Documents\College\CSI33\C++\Homework\Homework 19\Debug\Homework 19.exe
+  Homework 19.vcxproj -> C:\Users\Hector\Dropbox\Personal\Documents\College\CSI33\C++\Homework\Homework 19\Debug\Homework 19.pdb (Partial PDB)
